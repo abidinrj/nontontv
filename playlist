@@ -1,38 +1,4 @@
-########################## NATIONAL TV ##########################
-
-smarttvbox02
-/
-jamkidiptv
-
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-jamkidiptv
-Public
-smarttvbox02/jamkidiptv
- Branches
- Tags
-Latest commit
-@smarttvbox02
-smarttvbox02 Update README.md
-…
-2 hours ago
-Git stats
- 870
-Files
-Type
-Name
-Latest commit message
-Commit time
-README.md
-Update README.md
-2 hours ago
-README.md
--------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS----------------------- JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA --------------------------------------------------------------------LOKAL-------------------------------------------------------- #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", RCTI #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", RCTI #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", GTV #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
