@@ -199,7 +199,7 @@
  
 ```````` ABEETV | Sports ID ````````
 #EXTINF:-1 group-title="ABEETV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
-https://raw.githubusercontent.com/Tibawa/basulapa/main/ABEETV/playlist/moji.m3u8
+http://iptvtree.net:8080/AmirBilali/76448035/298550
  
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="ABEETV | Sports ID" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sportstars_2023.png", Sportstar 3Hd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
