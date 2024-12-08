@@ -1,18 +1,18 @@
 
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA",GTV(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA",GTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar(pft)televizo
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="INDONESIA", GTV+(2023)
@@ -34,25 +34,25 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1  group-title="INDONESIA" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="INDONESIA",..RCTI.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="INDONESIA", RCTI V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="INDONESIA",..MNCTV.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="INDONESIA", MNCTV V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="INDONESIA",..GTV.mpd
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="INDONESIA", GTV V+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="INDONESIA",..iNews +.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="INDONESIA", iNews V+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
