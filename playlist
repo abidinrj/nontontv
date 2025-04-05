@@ -183,11 +183,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 ######## NETMEDIATAMA ########
 ##############################
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="net.id" tvg-logo="https://i.imgur.com/pjgoN1s.png",24.NET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20NET.jpg" group-title="NASIONAL",,24.NET TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
 ###############################
