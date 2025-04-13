@@ -53,7 +53,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="23.iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",INEWS HD
+#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",23.INEWS HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
