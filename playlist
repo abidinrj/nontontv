@@ -58,10 +58,11 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 =======================================
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",23.INEWS HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.manifest_type=drm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="NASIONAL", 18.GTV
 #EXTVLCOPT:http-user-agent=android-R+
