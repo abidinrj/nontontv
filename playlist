@@ -1,10 +1,3 @@
-#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwaXRFzCVjCOUjyvjVi-L4h7r9O5KyyHbm9-gzZqKU3lwe4Tbdhsq7l7U&s=10" group-title="⚽TimNas Day⚽",🇮🇩Indonesia Vs 🇯🇵Japan 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
 
 
 
@@ -39,6 +32,17 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|referrer=https://
 
 =======================================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/GTV.png" group-title="NASIONAL",18.GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+=======================================
+
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/MNC%20TV.png" group-title="NASIONAL",15.MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 =======================================
 
