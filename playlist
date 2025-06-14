@@ -17,7 +17,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="NASIONAL",11.TVRI Jawa Tengah
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="NASIONAL",11.TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="NASIONAL",11.TVRI Jawa Timur
