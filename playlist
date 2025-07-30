@@ -127,7 +127,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/MuCJiRv.png",28.VTV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://www.an.tv/img/VTV-logo-merah.png",28.VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
 
@@ -172,11 +172,11 @@ https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index
 
 =======================================
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/wzorkzF.png",CNN Indonesia
+#EXTINF:-1 group-title="NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.webp?v=12.1.4",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/MvKxm0f.png",CNBC Indonesia
+#EXTINF:-1 group-title="NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/cnbc-logo.svg?v=6.6.0",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
