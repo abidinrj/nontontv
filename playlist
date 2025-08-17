@@ -155,12 +155,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 =======================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://scontent.fsrg6-1.fna.fbcdn.net/v/t39.30808-6/476480647_1179736436849160_5090452476349970294_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHXCBfwGBYwr-2pSDmVrZ2poiLRLKoyKPqiItEsqjIo-qn80HND1bxhij-7KTue0i3EadSrBiLi6RFKJTsSAOQn&_nc_ohc=7SXtxZN6_lEQ7kNvwE26MFj&_nc_oc=AdlI_3-6G3cmO9sYV7F__V1F0f7S2xJz3_Jpuws97i51ae3Q_FzGGwt4X-8wFGRW7UU&_nc_zt=23&_nc_ht=scontent.fsrg6-1.fna&_nc_gid=alETs8v35_gbSsj5LIdU3w&oh=00_AfVSgvWlDWzr9ABZ5h4EmmJdyhk-ZwyXK1P3Z9SlaowxXw&oe=68A521A8" group-title="NASIONAL", 20. Trans 7
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="NASIONAL", 20. Trans 7
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 =======================================
 
@@ -2093,6 +2091,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
 
 
 
