@@ -100,7 +100,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/56/56.m3u8
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 
 =======================================
@@ -121,7 +121,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/50/50.m3u8
+http://103.179.182.117:6768/hls/50/50.m3u8
 
 =======================================
 
@@ -2109,6 +2109,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
 
 
 
