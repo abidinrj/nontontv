@@ -16,10 +16,10 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="NASIONAL",11.TVRI Jawa Tengah
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="NASIONAL",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="NASIONAL",11.TVRI Jawa Timur
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="NASIONAL",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
 
@@ -2095,6 +2095,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
 
 
 
