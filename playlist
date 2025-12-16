@@ -266,12 +266,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="NASIONAL", 40. TV 9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd?sign=6e24ad6bafe816dfd95872a81771a7e7&time=1765898604
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
 
 ========SPORTS INDO========
