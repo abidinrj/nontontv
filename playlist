@@ -87,7 +87,7 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL",17.SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL",17.SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
