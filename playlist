@@ -88,8 +88,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL",17.SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 =======================================
 
