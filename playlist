@@ -102,10 +102,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR (VDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+##KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 
 =======================================
