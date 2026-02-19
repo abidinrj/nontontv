@@ -9,11 +9,11 @@ PLAYLIST by ABEE
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/QehUKzY.png",TVRI World
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://logos.fandom.com/wiki/TVRI_World?file=TVRI_World_Old_Logo.png",TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRISport.id" tvg-logo="https://i.imgur.com/QehUKzY.png",TVRI Sport
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRISport.id" tvg-logo="https://scontent.fsrg6-1.fna.fbcdn.net/v/t39.30808-6/242483462_110033411432119_8353208152460489388_n.jpg",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -205,7 +205,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 #############################
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="magnachannel.id" tvg-logo="https://i.imgur.com/P1P1eP6.png",Magna Channel
+#EXTINF:-1 group-title="NASIONAL" tvg-id="magnachannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BWakYzqoqYDsOQppKge8ILDmoN8=/1440x351/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/47613256/magnachannel-8bd98e.jpg",Magna Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch111.m3u8
 
