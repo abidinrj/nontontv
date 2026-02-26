@@ -81,10 +81,8 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
 #############################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL",17.SCTV VDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.169.224.202:8800/udp/239.9.1.29:1234
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="NASIONAL",17.SCTV
@@ -102,10 +100,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR D
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-##EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-##KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 =======================================
@@ -134,11 +131,12 @@ http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://thumbor.prod.vidiocdn.com/gxJ8IA6_DfO4whXrxKB5Ji2xmnA=/1440x351/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/88855732/HEADLINEPROFILTVONE1-f80315443eb2e0ec.jpg" group-title="NASIONAL", 19. TVOne 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/TNCSWZOMAYAiN4fxMU5NuV8LejA=/640x360/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4028623/original/034205100_1653039702-TV_One.jpg" group-title="NASIONAL", 19. TVONE (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
