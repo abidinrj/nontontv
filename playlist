@@ -99,14 +99,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="NASIONAL", 13. INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR D
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR VIDIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 =======================================
 
