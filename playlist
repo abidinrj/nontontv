@@ -101,7 +101,8 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.suara.com/pictures/653x366/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", 13. INDOSIAR2
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
