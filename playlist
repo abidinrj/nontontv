@@ -1,5 +1,10 @@
 PLAYLIST by ABEE
 
+#############################PIALA DUNIA#############################
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" group-title="PIALA DUNIA",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 
 ##########################
 ######## LPP TVRI ########
