@@ -49,6 +49,10 @@ https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+
 ##########################
 ######## LPP TVRI ########
 ##########################
