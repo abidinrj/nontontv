@@ -55,9 +55,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/inde
 #EXTINF:0 group-title="PIALA DUNIA" tvg-id="3588" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",B TSN 4 HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
 
+#EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",A RTB Aneka (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BN" tvg-language="" tvg-logo=" https://i.imgur.com/4nZbuiY.png " group-title="",RTB GO
-https://iptv-org.github.io/iptv/countries/bn.m3u
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",A RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 ##########################
 ######## LPP TVRI ########
