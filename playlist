@@ -34,18 +34,6 @@ http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",A TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-id="Матч! ТВ.ru" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png", MATCH! 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-id="МАТЧ ПРЕМЬЕР.ru" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png", MATCH! PREMIERE 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-
 #EXTINF:0 group-title="PIALA DUNIA" tvg-id="3663" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",B TSN 1 HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
 
@@ -95,7 +83,8 @@ https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab1cfd43-63ab-4b68-9f93-6e9c3acad7d6/di0keu3-f7945919-a49d-4795-a027-a4832362e476.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiMWNmZDQzLTYzYWItNGI2OC05ZjkzLTZlOWMzYWNhZDdkNlwvZGkwa2V1My1mNzk0NTkxOS1hNDlkLTQ3OTUtYTAyNy1hNDgzMjM2MmU0NzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M3teblfLNN4AzRvHdssr5ggnepAmBt22O1Go08WItHA" group-title="NASIONAL", 18.GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
+
 
 
 =======================================
@@ -106,7 +95,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dg1o1xt-c61476c9-2ca5-40ef-8146-bfe4d1eddb94.png/v1/fill/w_1280,h_240/mnctv_2010_logo_in_rcti_2000_style__by_ap41ii_dg1o1xt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwIiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kZzFvMXh0LWM2MTQ3NmM5LTJjYTUtNDBlZi04MTQ2LWJmZTRkMWVkZGI5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9Mic7RvAUWJVwYzRdg3vas-S3HYvgR5jwtAFaxjVcO0" group-title="NASIONAL", 15.MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 
 =======================================
@@ -117,7 +106,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dhvd7s5-31abc5d6-10c3-4f5a-bb89-0d51ea7af516.png/v1/fill/w_1280,h_312/_rcti_36_years_concept_logo_1__2025__by_ap41ii_dhvd7s5-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzEyIiwicGF0aCI6IlwvZlwvZTE0MDYxZmMtZGY1OS00NTk2LWEzNjUtMGNmODhhMGZhYTFmXC9kaHZkN3M1LTMxYWJjNWQ2LTEwYzMtNGY1YS1iYjg5LTBkNTFlYTdhZjUxNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jx6llm0Fqu_UxbGX7wIRLcAoSyENIajNHOYQeq33e48" group-title="NASIONAL", 16.RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
@@ -178,9 +167,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 =======================================
 
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="NASIONAL", 27.MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="NASIONAL", 27.MENTARI TV (PASS)
-http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 
 
