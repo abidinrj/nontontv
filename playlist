@@ -54,6 +54,21 @@ http://premiumorg11.com/live/damien56/65903/461671.ts
 #EXTINF:-1 tvg-id="M LIVE 2" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",bein max 2
 http://myxpanel.pro/live/13579/13579/835117.ts
 
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Fs 2 fhd
+http://myxpanel.pro/live/13579/13579/838115.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Dazn Mundial 1 fhd
+http://myxpanel.pro/live/13579/13579/838108.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Dazn Mundial 2 fhd
+http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Super Sport psl Central
+http://opplextv.cyou:8080/live/nasir6160/nasir/444349.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Unite8 Sports 1 fhd
+http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
+
 ##########################
 ######## LPP TVRI ########
 ##########################
