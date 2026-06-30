@@ -316,7 +316,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 ##############################
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg" group-title="NASIONAL",24.MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 
 ###############################
@@ -324,10 +325,12 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 ###############################
 
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="NASIONAL", 25.RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 
 ######################
