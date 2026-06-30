@@ -143,7 +143,9 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-327770703000000
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/960px-INews.png" group-title="NASIONAL", 23. INEWS IND
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+http://202.169.224.202:8800/udp/238.2.2.27:1234
 
 
 
