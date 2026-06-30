@@ -225,7 +225,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://onesky.org/wp-content/uploads/2018/01/antv-692x321.png" group-title="NASIONAL", 12.ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://onesky.org/wp-content/uploads/2018/01/antv-692x321.png" group-title="NASIONAL", 12.ANTV D
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165072
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 
 
 
