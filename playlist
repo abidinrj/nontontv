@@ -8,7 +8,7 @@ PLAYLIST by ABEE
 #############################PIALA DUNIA#############################
 
 
-#EXTINF:-1 tvg-id="SporTVBR" tvg-name="RTBF" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",RTBF tipik
+#EXTINF:-1 tvg-id="SporTVBR" tvg-name="RTBF" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",2. RTBF tipik
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -36,7 +36,7 @@ http://69.30.245.50/live/cctv5.m3u8
 http://myxpanel.pro/live/13579/13579/838116.ts
 
 
-#EXTINF:0 group-title="PIALA DUNIA" tvg-id="3663" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",Globo 1
+#EXTINF:0 group-title="PIALA DUNIA" tvg-id="3663" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",4. Globo 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #http://200.77.176.130:8000/udp/224.0.0.1:49152
 #https://hplay.tv/augetv/12396547488/10.m3u8
@@ -53,7 +53,7 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Monomax
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",3. Monomax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
