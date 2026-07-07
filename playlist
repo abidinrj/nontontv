@@ -76,14 +76,17 @@ http://myxpanel.pro/live/13579/13579/838106.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://myxpanel.pro/live/13579/13579/838103.ts
 
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",TVRI 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 ##########################
 ######## LPP TVRI ########
 ##########################
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="TVRINasional.id" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/TVRI-Televisi-Republik-Indonesia-2019-black-Logo-Vector.svg-.png",11.TVRI Nasional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://logos.fandom.com/wiki/TVRI_World?file=TVRI_World_Old_Logo.png",TVRI World
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
