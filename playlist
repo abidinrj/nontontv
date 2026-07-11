@@ -8,7 +8,7 @@ PLAYLIST by ABEE
 #############################PIALA DUNIA#############################
 
 
-#EXTINF:-1 tvg-id="SporTVBR" tvg-name="RTBF" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",2. RTBF tipik
+#EXTINF:-1 tvg-id="SporTVBR" tvg-name="RTBF" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",RTBF tipik
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -18,14 +18,14 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",8. DSports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",DSports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",CCTV5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",2. CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -36,7 +36,7 @@ http://69.30.245.50/live/cctv5.m3u8
 http://myxpanel.pro/live/13579/13579/838116.ts
 
 
-#EXTINF:0 group-title="PIALA DUNIA" tvg-id="3663" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",4. Globo 1
+#EXTINF:0 group-title="PIALA DUNIA" tvg-id="3663" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" tvg-rec="0",Globo 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #http://200.77.176.130:8000/udp/224.0.0.1:49152
 #https://hplay.tv/augetv/12396547488/10.m3u8
@@ -49,11 +49,11 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",1. Caze TV
+#EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Caze TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",3. Monomax
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Monomax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
@@ -66,7 +66,7 @@ http://myxpanel.pro/live/13579/13579/835117.ts
 #EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Fs 2 fhd
 http://myxpanel.pro/live/13579/13579/838115.ts
 
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Dazn Mundial 1 fhd
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",1. Dazn Mundial 1 fhd
 http://myxpanel.pro/live/13579/13579/838108.ts
 
 #EXTINF:-1 tvg--name"Brunei" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png" group-title="PIALA DUNIA",Dazn Mundial 2 fhd
