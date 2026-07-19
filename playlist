@@ -3,6 +3,11 @@
 //////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", CCTV 5 China
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
 //========================================================================
