@@ -4,9 +4,19 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", CCTV 5 China
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", CCTV 5 China
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", MN SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", CAZE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/FPEyJgK.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
