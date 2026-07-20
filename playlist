@@ -171,6 +171,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 
 #======================================================== TVONE ====================================================================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0VCnfW.jpeg" group-title="INDONESIA TV", 09. TvOne (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="INDONESIA TV", 09. TVONE (MAX)
