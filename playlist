@@ -4,31 +4,6 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
 
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 03. CCTV 5 China
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 02. MN SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 01. CAZE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 06. TVRI
-https://spmid.net:443/play/-HM8CN8MYwsYDHL4vHO5tPlhDmo6MBfI8epi_rZYpHssUTVA03Eb8K6beX0BOEQj
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 04. MNB SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-
-#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://koranmonitor.com/wp-content/uploads/2026/07/Screenshot_2026-07-16-07-43-24-38_680d03679600f7af0b4c700c6b270fe7-1024x680.jpg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA", 05. TIPIK
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
@@ -135,10 +110,8 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV", 03. INDOSIAR V
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 #======================================================== MOJI ====================================================================
 
