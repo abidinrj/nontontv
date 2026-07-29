@@ -57,17 +57,9 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=4&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=4
-https://ayo.maling.pl/Vision/index.mpd?id=4
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #======================================================== SINDONEWS ====================================================================
 
