@@ -228,7 +228,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" tvg-id="VTV.id" group-title="INDONESIA TV", 19. VTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://tvratu.my.id/oxygen/index.m3u8?id=vtv
+http://157.15.187.3:25092/hls/47/47.m3u8
 
 
 #======================================================== BTV ====================================================================
