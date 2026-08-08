@@ -408,14 +408,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
+https://iptv.lancartech.co.id:443/bombom/full/52
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
 ###KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 🇵🇭 (CVG)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -435,12 +438,15 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS
+https://iptv.lancartech.co.id:443/bombom/full/54
+
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
 ###KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
 
 ### ---------------- HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -452,12 +458,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.m
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE
+https://iptv.lancartech.co.id:443/bombom/full/55
+
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
 ###KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 ### ---------------- HBO FAMILY
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -469,12 +478,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY
+https://iptv.lancartech.co.id:443/bombom/full/53
+
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
 ###KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 ### ---------------- CINEMAX
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -486,12 +498,18 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
+https://iptv.lancartech.co.id:443/bombom/full/48
+
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX 🇵🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
 ###KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155238186329&ispcode=55
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -502,78 +520,87 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 #======================================================== ORIGINALS ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ORIGINALS.id" tvg-name="Originals" tvg-logo="https://mimipipi22.github.io/logo/movies/originals.jpg" group-title="MOVIES",ORIGINALS (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #======================================================== UNIQUES ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="UNIQUES.id" tvg-name="Uniques" tvg-logo="https://mimipipi22.github.io/logo/movies/uniques.jpg" group-title="MOVIES",UNIQUES (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #======================================================== SUPPERRIX ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="SUPRERRIX.id" tvg-name="Superrix" tvg-logo="https://mimipipi22.github.io/logo/movies/superrix.jpg" group-title="MOVIES",SUPPERRIX (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #======================================================== CINEEDGE ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CINEEDGE.id" tvg-name="CineEdge" tvg-logo="https://mimipipi22.github.io/logo/movies/cineedge.jpg" group-title="MOVIES",CINEEDGE (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #======================================================== BUDDY STAR ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="BUDDY.STARS.id" tvg-name="Buddy Star" tvg-logo="https://mimipipi22.github.io/logo/movies/buddystar.jpg" group-title="MOVIES",BUDDY STAR (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #======================================================== GALAXY ====================================================================
 ### ---------------- GALAXY PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Galaxy.Premium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="MOVIES",GALAXY PREMIUM (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 ### ---------------- GALAXY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-name="GALAXY" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxy.jpg" group-title="MOVIES",GALAXY (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #======================================================== STUDIO UNIVERSAL ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Studio.Universal.id" tvg-name="Studio Universal" tvg-logo="https://mimipipi22.github.io/logo/movies/studiouniversal.jpg" group-title="MOVIES",STUDIO UNIVERSAL (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
@@ -592,16 +619,17 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemaworld.jpg" group-title="MOVIES",CINEMAWORLD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179210
+###http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179210
 
 #======================================================== ROCK ACTION ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="MOVIES",ROCK ACTION
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="MOVIES",ROCK ACTION (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -611,7 +639,7 @@ https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="MOVIES",ROCK ACTION 🇵🇭
 ###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
@@ -625,30 +653,40 @@ https://tv.iill.top/myTV/RKEX
 
 #======================================================== CELESTIAL MOVIES ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="MOVIES",CELESTIAL MOVIES (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 ##https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #======================================================== TVN MOVIES ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES (V+)
+###https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+###https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=46
 #EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #======================================================== THRILL ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
@@ -658,12 +696,16 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL 🇵🇭 (CVG)
+http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
+
 #======================================================== HITS MOVIES ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HITS.MOVIES.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
@@ -674,33 +716,38 @@ https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-32777
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 #EXTINF:-1 tvg-id="HITS.MOVIES.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES 🇵🇭
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+###https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
 #======================================================== MY CINEMA EUROPE ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://mimipipi22.github.io/logo/movies/mycinemaeurope.jpg" group-title="MOVIES",MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
 #======================================================== CCM ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="MOVIES",CCM (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://mimipipi22.github.io/logo/movies/ccm.jpg" group-title="MOVIES",CCM 🇵🇭 (CVG)
+http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
+
 #======================================================== Z BIOSKOP ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ZBioskop.id" tvg-name="Z Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/zbioskop.jpg" group-title="MOVIES",Z BIOSKOP (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
@@ -711,19 +758,20 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 
 #======================================================== CITRA BIOSKOP ====================================================================
 
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Citra.Bioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/citrabioskop.jpg" group-title="MOVIES",CITRA BIOSKOP
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 
 #======================================================== IMC ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mimipipi22.github.io/logo/movies/imc.jpg" group-title="MOVIES",IMC (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
@@ -732,7 +780,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
@@ -756,10 +804,11 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #======================================================== AXN ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
@@ -769,17 +818,17 @@ https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN 
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN
 ###https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 ###KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -804,11 +853,20 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
 ###KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV 🇵🇭
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="ENTERTAINMENT",WARNER TV 🇵🇭 (CVG)
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -822,10 +880,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 #======================================================== ROCK ENTERTAINMENT ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
@@ -842,13 +901,21 @@ https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-av
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
 ###KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
 
 #======================================================== HITS NOW ====================================================================
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d71c326133b743daac90b64e0a0ac488:fb19cdf9aeffdd39b4a06b363a2b5ff8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hitsnow.jpg" group-title="ENTERTAINMENT",HITS NOW (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -859,18 +926,19 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 ###KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
 #EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hitsnow.jpg" group-title="ENTERTAINMENT",HITS NOW 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
 #======================================================== HITS ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg" group-title="ENTERTAINMENT",HITS (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
@@ -882,18 +950,19 @@ https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-327770703000000
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 ###KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg" group-title="ENTERTAINMENT",HITS 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
 #======================================================== KIX ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
@@ -905,20 +974,21 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX 🇵🇭
-##https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX 🇵🇭 (CVG)
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #======================================================== LIFETIME ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/lifetime.jpg" group-title="ENTERTAINMENT",LIFETIME (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
@@ -931,52 +1001,84 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 ###KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/lifetime.jpg" group-title="ENTERTAINMENT",LIFETIME 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
 #======================================================== TVN ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+##KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN (V+)
+###https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+###https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=73
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 ###KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+
+#======================================================== SET ====================================================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=70
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png" group-title="ENTERTAINMENT",SET (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
+
+#======================================================== FTV ====================================================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=69
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png" group-title="ENTERTAINMENT",FTV (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
 #======================================================== ONE ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="ENTERTAINMENT",ONE (V+)
-###https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 ###https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #======================================================== KPLUS ====================================================================
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+###EXTVLCOPT:http-referrer=https://www.indihometv.com/
+###EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",KPLUS (MAX)
-https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+###https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+###https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 ###http://103.148.44.38:8000/play/a05s/index.m3u8
+http://ogietv.biz.id:80/aqin/aqin168/301.ts
 
 #======================================================== SONY MAX ====================================================================
 
-###KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://mimipipi22.github.io/logo/entertainment/sonymax.jpg" group-title="ENTERTAINMENT", Sony MAX
@@ -986,28 +1088,30 @@ http://202.70.146.135:8000/play/a01g/index.m3u8
 
 #======================================================== ANIMAX ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
 ###KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
 #======================================================== ANIPLUS ====================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="ENTERTAINMENT",ANIPLUS
+http://rjcf.ofztvxv.top:8080/VIP0168175968003861/6gsfgs2zaf5d/34397
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 ###https://slive.mana2.my/AniPlus/index.mpd
@@ -1029,21 +1133,25 @@ http://103.148.44.38:8000/play/a06w/index.m3u8
 
 #======================================================== CITRA DRAMA ====================================================================
 
-#EXTINF:-1 tvg-id="Citra.Drama.id" tvg-name="Citra Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/citradrama.jpg" group-title="ENTERTAINMENT",CITRA DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=drm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21179&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=drm
+#EXTINF:-1 tvg-id="Citra.Drama.id" tvg-name="Citra Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/citradrama.jpg" group-title="ENTERTAINMENT",CITRA DRAMA
+https://tvratu.my.id/vid/index.mpd?id=21179&type=dash
 ###https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=dash
 ###http://202.169.224.202:8800/udp/239.9.1.12:1234
 
 #======================================================== CITRA PLUS ====================================================================
 
-#EXTINF:-1 tvg-id="Citra.Plus.id" tvg-name="Citra Plus" tvg-logo="https://mimipipi22.github.io/logo/vidio/citra-drama-plus.jpg" group-title="ENTERTAINMENT",CITRA PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=21289
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21289&type=drm
+###KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=21289
+#EXTINF:-1 tvg-id="Citra.Plus.id" tvg-name="Citra Plus" tvg-logo="https://mimipipi22.github.io/logo/vidio/citra-drama-plus.jpg" group-title="ENTERTAINMENT",CITRA PLUS
+https://tvratu.my.id/vid/index.mpd?id=21289&type=dash
 ###https://ratuvidio.adptv.workers.dev/index.mpd?id=21289
 
 #======================================================== CITRA ENTERTAINMENT ====================================================================
@@ -1056,41 +1164,46 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 
 #======================================================== DRAMA CHANNEL ====================================================================
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/dramachannel.php
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="ENTERTAINMENT",DRAMA CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
+#EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="ENTERTAINMENT",DRAMA CHANNEL (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 ###https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
-###http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=1919453&extension=ts
 
 #======================================================== ENT ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/entertainment.jpg" group-title="ENTERTAINMENT",ENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/entertainment.jpg" group-title="ENTERTAINMENT",ENT (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #======================================================== VISION PRIME ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Vision.Prime.id" tvg-name="Vision Prime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/visionprime.jpg" group-title="ENTERTAINMENT",VISION PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Vision.Prime.id" tvg-name="Vision Prime" tvg-logo="https://mimipipi22.github.io/logo/entertainment/visionprime.jpg" group-title="ENTERTAINMENT",VISION PRIME (V+)
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #======================================================== CELEBRITIES TV ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Celebrities.TV.id" tvg-name="Celebrities TV" tvg-logo="https://mimipipi22.github.io/logo/entertainment/celebritiestv.jpg" group-title="ENTERTAINMENT",CELEBRITIES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Celebrities.TV.id" tvg-name="Celebrities TV" tvg-logo="https://mimipipi22.github.io/logo/entertainment/celebritiestv.jpg" group-title="ENTERTAINMENT",CELEBRITIES TV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
@@ -1098,7 +1211,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="ENTERTAINMENT",MAX REELS
+#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="ENTERTAINMENT",MAX REELS (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
 
@@ -1106,7 +1219,7 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",MAX EATS
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",MAX EATS (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
@@ -1138,21 +1251,28 @@ https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Dens.Showbiz.id" tvg-name="Dens Showbiz" tvg-logo="https://mimipipi22.github.io/logo/entertainment/densshowbiz.jpg" group-title="ENTERTAINMENT",DENS SHOWBIZ
+#EXTINF:-1 tvg-id="Dens.Showbiz.id" tvg-name="Dens Showbiz" tvg-logo="https://mimipipi22.github.io/logo/entertainment/densshowbiz.jpg" group-title="ENTERTAINMENT",DENS SHOWBIZ (DNS)
+https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Dens.Showbiz.id" tvg-name="Dens Showbiz" tvg-logo="https://mimipipi22.github.io/logo/entertainment/densshowbiz.jpg" group-title="ENTERTAINMENT",DENS SHOWBIZ (V+)
 https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 
 #======================================================== WE DO TV AMOR ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvamor.jpg" group-title="ENTERTAINMENT",WE DO TV AMOR
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvamor.jpg" group-title="ENTERTAINMENT",WE DO TV AMOR (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&userid=lite&chname=wedotvAmor
 
 #======================================================== WE DO TV BIG STORIES ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg" group-title="ENTERTAINMENT",WE DO TV BIG STORIES
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg" group-title="ENTERTAINMENT",WE DO TV BIG STORIES (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
 
 #======================================================== ATV ====================================================================
@@ -1179,83 +1299,126 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=w
 
 #======================================================== SPORTSTARS ====================================================================
 ### ---------------- SPORTSTARS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS
+###https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+###https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=112
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS B
 ###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
 ### ---------------- SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS",SPORTSTARS 2
+###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+###https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=113
 #EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS",SPORTSTARS 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="SPORTS",SPORTSTARS 2 B
 ###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
 ### ---------------- SPORTSTARS 3
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="SPORTS",SPORTSTARS 3
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 ###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 ###https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="SPORTS",SPORTSTARS 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="SPORTS",SPORTSTARS 3 B
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+###https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
 ### ---------------- SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x_Up3sy_Zwnj5lxhyNE0Tw","kid":"qx_pnk5PTL6VkwsxVMH7GQ"},{"kty":"oct","k":"NAR5LLTIBJAqzcbKZcGimA","kid":"04YAEhVZQEOomV23lq2enA"},{"kty":"oct","k":"EW5AFKZi_vTqXXZx3VEg2A","kid":"k9W5-dXRTxWxupWC8zLR_A"},{"kty":"oct","k":"2_3Alnz7vtAdunMMmdnBSg","kid":"wwBFZTZaQtCOO945pRbWTg"},{"kty":"oct","k":"5FsGo4zSYbdMUWDwkSwELw","kid":"JRw4ToRoQauvoffHI9V-Zg"},{"kty":"oct","k":"DeGBmeuzMW467YUp45VCtw","kid":"dk5yaiNKQ1yHqC5KHaammw"},{"kty":"oct","k":"MYBbPA0DCA-e0zQRJY5brw","kid":"eEd9IVaUS3yzV2KkeXOqnA"},{"kty":"oct","k":"yuEazOvjynU1FB019NQaHQ","kid":"Ir0AFgkBQ_eVonVimm56Cg"},{"kty":"oct","k":"WIoiFL-5H8AVC5rCp0XO-A","kid":"kd7G_Z_YS4earMAnv1MnkA"},{"kty":"oct","k":"TG-bFd-rKhabK3ikmMTXfQ","kid":"A26F3gu0SO6yHTmrMA2kjg"},{"kty":"oct","k":"HWaTvJQvA2BT_Bw8OztQMg","kid":"6rZnqPfxT_e_ANeQMUoQ8A"},{"kty":"oct","k":"mil78iAO7n3uIbms6fV8dw","kid":"juffFf9YSWej63uIW6_HHg"},{"kty":"oct","k":"UJKUkRrDwtd5riIlojRgtA","kid":"xkSTFV2LRDyDShPUlwz4NA"},{"kty":"oct","k":"Zzd7jUKWA_i_MMFhvaJp5Q","kid":"QDUyOn_mR2erjzNF7ZuTvg"},{"kty":"oct","k":"Tp15VML_RnWSidpPyfAY6g","kid":"OcTcZwTPTO6i_UhjuI2KfQ"},{"kty":"oct","k":"CK7FSKhRumS3Fyrn8Fy5HA","kid":"kR5yrfNpRq-9u0-AeCqDlA"},{"kty":"oct","k":"M3e-bDtfaI6-1ocxLJudlQ","kid":"tXbl9fG8TLqoZuWw-s5aMA"},{"kty":"oct","k":"F0YqdHOa4NmFVwX_wsDhtQ","kid":"MZf39QhsQxWvK3qUvJIByw"},{"kty":"oct","k":"Zx4k_Y0jTH842FBVgV-QKg","kid":"FTnwQySeQT2RkGA28wWDHg"},{"kty":"oct","k":"FCRz7pJdsNsAg8dKF4yCmA","kid":"OuakMMG4Qg6igOMXFD2NOg"},{"kty":"oct","k":"2-StaAPnRzm4-VTSPMWOew","kid":"PXVtVmypTmSZUY_7FHTV0A"},{"kty":"oct","k":"JGzG7nqyNcuCTtO5BLcECw","kid":"NE0yDKRWQaiM8ALbNR7ZpA"},{"kty":"oct","k":"uVyRlAjux2YyFKmmevgxug","kid":"rvGCMXetQBmd5EBQTZkq1Q"},{"kty":"oct","k":"2q0K6xZbmia3BvKiYbj6_g","kid":"xIyOSNuiRCC13O-fW4R7Eg"},{"kty":"oct","k":"YWndBCu15Z1wknK2FAEbuw","kid":"qgDzIPBiR9yvjjzqH7B_RA"},{"kty":"oct","k":"g5vfTxUjZhumHfLcIZh4ow","kid":"NA_yQf91SwOPBwluFxBM3A"},{"kty":"oct","k":"zhvjrDLH5mLhfDzInO4CqQ","kid":"nkYXCz3DRwaV09SSoqFB-w"},{"kty":"oct","k":"mKCDCF0OXWvADC0hsgUplg","kid":"Xqi2b3MKQCu9JttuESlU8g"},{"kty":"oct","k":"49yVmwYtPCYfBiTl73gXrQ","kid":"wYGZPPhSRC2WW6K3NY25aQ"},{"kty":"oct","k":"zEsOQqxmQFe0_tBiWh9Xqg","kid":"MLilhjN4RhaELWzZ5mzYpA"},{"kty":"oct","k":"Re8xrXfLFKKaCw02dM8w4Q","kid":"mJWrZrfkTw2JG53u4r8SZA"},{"kty":"oct","k":"2ItnJ5Uk0mmE-cAEFEK1xg","kid":"weWmcTrMR3SmItARdyJAlA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS",SPORTSTARS 4
+###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=205
 #EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS",SPORTSTARS 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="SPORTS",SPORTSTARS 4 B
 ###https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
 #======================================================== SOCCER CHANNEL ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS",SOCCER CHANNEL
+###https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+###https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS",SOCCER CHANNEL
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#======================================================== SPOTV ====================================================================
+#======================================================== 	 ====================================================================
 ### ---------------- SPOTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV (V+)
+###https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+###https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1265,13 +1428,30 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
-###KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV 🇵🇭
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 ### ---------------- SPOTV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 (V+)
+###https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+###https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1281,61 +1461,104 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 ###KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 🇵🇭
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+###https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #======================================================== BEIN SPORTS ====================================================================
 ### ---------------- BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SPORTS",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SPORTS",BEIN SPORTS 1 (V+)
+###https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="SPORTS",BEIN SPORTS 1 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 ### ---------------- BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SPORTS",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SPORTS",BEIN SPORTS 2 (V+)
+###https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+###http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SPORTS",BEIN SPORTS 2 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
 
 ### ---------------- BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SPORTS",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SPORTS",BEIN SPORTS 3 (V+)
+###https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports3.jpg" group-title="SPORTS",BEIN SPORTS 3 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 ### ---------------- BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="SPORTS",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="SPORTS",BEIN SPORTS 4 (V+)
+###https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=125
+#EXTINF:-1 tvg-id="beIN.SPORTS.4.id" tvg-name="beIN Sports 4" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports4.jpg" group-title="SPORTS",BEIN SPORTS 4 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 ### ---------------- BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SPORTS",BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SPORTS",BEIN SPORTS 5 (V+)
+###https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=126
+#EXTINF:-1 tvg-id="beIN.SPORTS.5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SPORTS",BEIN SPORTS 5 (V+)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #======================================================== CHAMPIONS TV ====================================================================
 ### ---------------- CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6685&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="SPORTS",CHAMPIONS TV 1
+https://tvratu.my.id/vid/index.mpd?id=6685&type=dash
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1345,6 +1568,22 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 ###https://bosstv.asia/yabostv/17938.mpd
 
 ### ---------------- CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6686&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS",CHAMPIONS TV 2
+https://tvratu.my.id/vid/index.mpd?id=6686&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=17939&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS",CHAMPIONS TV 2
+https://tvratu.my.id/vid/index.mpd?id=17939&type=dash
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1356,12 +1595,20 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
 #EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS",CHAMPIONS TV 2
 ###https://vidx.semar.my.id/biasa2.mpd?id=17939&type=dash
 
 ### ---------------- CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=19404&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="SPORTS",CHAMPIONS TV 3
+https://tvratu.my.id/vid/index.mpd?id=19404&type=dash
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1387,6 +1634,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 ###https://vidx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
 
 ### ---------------- CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9182&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="SPORTS",CHAMPIONS TV 5
+https://tvratu.my.id/vid/index.mpd?id=9182&type=dash
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1404,6 +1659,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 ###https://vidx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
 
 ### ---------------- CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9183&type=drm
+#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions6.jpg" group-title="SPORTS",CHAMPIONS TV 6
+https://tvratu.my.id/vid/index.mpd?id=9183&type=dash
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1422,8 +1685,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #======================================================== CHAMPIONS GOLF ====================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
+#EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="SPORTS",CHAMPIONS GOLF 1 HD (XL1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xTASsI7fR4GHBkZl3eZHyw","k":"U5C7kksQLVZrnlmvvcCPqw"}],"type":"temporary"}
@@ -1431,7 +1701,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
 https://atemeshield2-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
+#EXTINF:-1 tvg-id="ChampionsGolf2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png" group-title="SPORTS",CHAMPIONS GOLF 2 HD (XL1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"svvWNYo0TcujMcfJF0LNNA","k":"7hg-GhuXG1ovdkwZKuUghw"}],"type":"temporary"}
@@ -1439,44 +1717,103 @@ https://atemeshield2-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGo
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 
-#======================================================== V+ ====================================================================
+#======================================================== VPLUS ====================================================================
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png",V+ LIVE
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+###https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1012
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png",R+ LIVE
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1010
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png",V+ LIVE 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png",V+ SPORTS
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png",V+ LIVE 3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png",V+ LIVE 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png",V+ LIVE 5
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 6
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1012
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/289/191289-LOGO-m.png",V+ LIVE 7
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1017
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/290/191290-LOGO-m.png",V+ LIVE 8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1018
+#EXTINF:-1 tvg-id="1018" tvg-logo="https://www.visionplus.id/images/repository/402/552402-LOGO-m.png" group-title="SPORTS",V+ Live 9
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
+https://ayo.maling.pl/Vision/index.mpd?id=1018
+
 #======================================================== FIGHT SPORTS ====================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="SPORTS",FIGHT SPORTS (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
@@ -1484,11 +1821,16 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 #EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="SPORTS",FIGHT SPORTS (MAX)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
 https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd
 
 #======================================================== EUROSPORT ====================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30cceb96616646fcb9d0d4337d6b1d67:636003cec1d74b159b599f8dd7260e97
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" group-title="SPORTS",EUROSPORT 1 🇸
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1520,7 +1862,7 @@ http://fortv.cc:8080/zC5wUbTpQU/x28AczEFnJ/20073
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 ###KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV 🇵🇭
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+###https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #======================================================== VOLI TV ====================================================================
 
@@ -1535,18 +1877,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #======================================================== MOJI TV SPORT ====================================================================
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:network-caching=2000
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="SPORTS",MOJI TV SPORT
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?|Referer=http://www.dens.tv/
 
 #======================================================== TVRI SPORT ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (DNS)
 ###https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
@@ -1595,14 +1933,14 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #======================================================== MOTORVISION+ ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="Motorvision+.us" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="SPORTS",MOTORVISION+ (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
 #======================================================== WE DO SPORT ====================================================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/wedotvsports.jpg" group-title="SPORTS",WE DO SPORT (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 
@@ -1671,7 +2009,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&useri
 ###
 
 #======================================================== END LIST ====================================================================
-
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> WORLD TV
