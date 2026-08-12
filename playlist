@@ -86,8 +86,9 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/18.m3u8
+
 #======================================================== MOJI ====================================================================
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV
