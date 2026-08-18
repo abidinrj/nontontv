@@ -392,25 +392,35 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 
 #======================================================== END LIST ====================================================================
 
+
 //========================================================================
                                   RELIGI
 //========================================================================
 
+=====================================TVMU===================================
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA25GaB.jpeg" tvg-id="itzplay.id" group-title="RELIGI",TVMU
 https://e.siar.us/live/tvmu.m3u8
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••Saudi Arabia••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+===================================MADINAH=====================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDaWh9B.jpeg" tvg-id="itzplay.id" group-title="RELIGI",Saudi Arabia | Madinah Live
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="Sunna.TV.id" tvg-name="Sunna TV" tvg-logo="https://mimipipi22.github.io/logo/religion/sunnatv.jpg" group-title="RELIGI",SUNNA TV (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0E5Jr8z.jpeg" tvg-id="itzplay.id" group-title="RELIGI", Saudi Arabia | Makkah Live
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+===================================MAKKAH=====================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://mimipipi22.github.io/logo/religion/alqurankareem.jpg" group-title="RELIGI",AL QURAN KAREEM (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+=====================================TV9===================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV9.NU.id" tvg-name="TV9 NU.id" tvg-logo="https://mimipipi22.github.io/logo/religion/tv9.jpg" group-title="RELIGI",TV9 (STREAM)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> MOVIES
