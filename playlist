@@ -51,9 +51,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 
 #======================================================== INEWS ====================================================================
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS (MAX)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=4.play
+https://ayo.maling.pl/V/vision/id=4.cok.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
