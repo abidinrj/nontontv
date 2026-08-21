@@ -84,7 +84,7 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-#https://beetv.my.id/stream/vd.m3u8?ch=sctv
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 
 #======================================================== INDOSIAR ====================================================================
