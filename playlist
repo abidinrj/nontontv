@@ -417,7 +417,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 =====================================TVMU===================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA25GaB.jpeg" tvg-id="itzplay.id" group-title="RELIGI",TVMU
-https://e.siar.us/live/tvmu.m3u8
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=30
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 ===================================MADINAH=====================================
 
