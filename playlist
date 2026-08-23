@@ -1119,7 +1119,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=119
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://ayo.maling.pl/V/vision/id=119.cok.mpd
+#https://ayo.maling.pl/V/vision/id=119.cok.mpd
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" group-title="📂 SPORT",SPOTV 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1127,7 +1127,7 @@ https://ayo.maling.pl/V/vision/id=119.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://ayo.maling.pl/V/vision/id=120.cok.mpd
+#https://ayo.maling.pl/V/vision/id=120.cok.mpd
 
 #EXTINF:-1 tvg-id="121" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="📂 SPORT",Fight Sports
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1135,7 +1135,7 @@ https://ayo.maling.pl/V/vision/id=120.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=121
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-https://ayo.maling.pl/V/vision/id=121.cok.mpd
+#https://ayo.maling.pl/V/vision/id=121.cok.mpd
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" group-title="📂 SPORT",Bein Sports 1
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1143,7 +1143,7 @@ https://ayo.maling.pl/V/vision/id=121.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-https://ayo.maling.pl/V/vision/id=122.cok.mpd
+#https://ayo.maling.pl/V/vision/id=122.cok.mpd
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="📂 SPORT",Bein Sports 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1151,7 +1151,7 @@ https://ayo.maling.pl/V/vision/id=122.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-https://ayo.maling.pl/V/vision/id=123.cok.mpd
+#https://ayo.maling.pl/V/vision/id=123.cok.mpd
 
 #EXTINF:-1 tvg-id="124" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="📂 SPORT",Bein Sports 3
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1159,7 +1159,7 @@ https://ayo.maling.pl/V/vision/id=123.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-https://ayo.maling.pl/V/vision/id=124.cok.mpd
+#https://ayo.maling.pl/V/vision/id=124.cok.mpd
 
 #EXTINF:-1 tvg-id="125" tvg-logo="https://www.visionplus.id/images/repository/884/522884-LOGO-m.png" group-title="📂 SPORT",beIN SPORTS 4
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1167,7 +1167,7 @@ https://ayo.maling.pl/V/vision/id=124.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=125
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-https://ayo.maling.pl/V/vision/id=125.cok.mpd
+#https://ayo.maling.pl/V/vision/id=125.cok.mpd
 
 #EXTINF:-1 tvg-id="126" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="📂 SPORT",beIN SPORTS 5
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1175,5 +1175,5 @@ https://ayo.maling.pl/V/vision/id=125.cok.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=126
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-https://ayo.maling.pl/V/vision/id=126.cok.mpd
+
 
