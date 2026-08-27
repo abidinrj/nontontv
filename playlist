@@ -703,6 +703,15 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 
 =======================================
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb9ec72f-0968-4eb6-9381-8e19f0e0c03a/dmcz0po-cf788641-f645-4e4e-82c0-886c849e554a.png/v1/fill/w_1280,h_663/canal__cinema_logo__1995__sonriverse__by_sonrialda_dmcz0po-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYzIiwicGF0aCI6Ii9mL2ZiOWVjNzJmLTA5NjgtNGViNi05MzgxLThlMTlmMGUwYzAzYS9kbWN6MHBvLWNmNzg4NjQxLWY2NDUtNGU0ZS04MmMwLTg4NmM4NDllNTU0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6JVfTECoIxlhNQvY3lYH_WYnp2zFud-IzGk9eeDQvBs" group-title="📂 HIBURAN" , CANAL+ FR
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.pinimg.com/236x/5a/68/b8/5a68b86de75c499a4694fc2497d934cc.jpg" group-title="📂 HIBURAN" , CINEMA RU
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="📂 HIBURAN" , SONY MOVIES
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="📂 HIBURAN", WB TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
