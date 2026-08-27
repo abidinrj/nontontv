@@ -158,11 +158,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
+https://live.eu-north-1a.cf.dmcdn.net/sec2(7Z5gcIaOJ2BCZR6zo3iPXrZM1u8ggA81GXp_SHEeaM7PIe2R8uSAy1ADg8A6txViYzrhC_lFy3njMjiFWWViamDt8NQbjqTYkmw6LK_TXkxpkF5Kadj97X0mCjJB-O3W)/dm/3/x8qckyq/d/live-480.m3u8
 
 #======================================================== ANTV ====================================================================
 
