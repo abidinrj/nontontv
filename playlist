@@ -480,6 +480,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 =======================================
 
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f54fa3e-aec2-486d-97df-008746dfeff4/dgknozq-8812c673-c713-48ef-9c1f-d99f65636b86.png/v1/fill/w_874,h_914/abc_kids_logo__2023_present__by_johngamble1997_dgknozq-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzOSIsInBhdGgiOiIvZi84ZjU0ZmEzZS1hZWMyLTQ4NmQtOTdkZi0wMDg3NDZkZmVmZjQvZGdrbm96cS04ODEyYzY3My1jNzEzLTQ4ZWYtOWMxZi1kOTlmNjU2MzZiODYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.E21Mfh6WNAE-u5YaikLyK7Rp1fFCq7AQIcF4xuzKTUI" group-title="KIDS",ABC KIDS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/537787e477cb491b8cfd57eb8cc37da4/index.m3u8?hdnea=st=1787853313~exp=1787854213~acl=/*~hmac=ada471be31a496563b0b8628d0500f751507d6073fe9bf7875e22d73be888b15
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
