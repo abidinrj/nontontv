@@ -125,11 +125,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #======================================================== MENTARI ====================================================================
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://boti.my.id//index.m3u8?u=abidin4593%40gmail.com&x=LGux7XgMLUWj1Kfb7sGz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkyNTE0NH0.PPoheEypnbP3yVRjipIjCLjukB6CrK2FGHPJxwugVgo&id=8237&type=hls
 
 #======================================================== TRANSTV ====================================================================
 
@@ -444,6 +442,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://mimipipi22.github.io/logo/religion/alqurankareem.jpg" group-title="RELIGI",AL QURAN KAREEM (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
+
+#EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://mimipipi22.github.io/logo/religion/alqurankareem.jpg" group-title="RELIGI",AL QURAN KAREEM (V)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://boti.my.id//index.m3u8?u=abidin4593%40gmail.com&x=LGux7XgMLUWj1Kfb7sGz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkyNTE0NH0.PPoheEypnbP3yVRjipIjCLjukB6CrK2FGHPJxwugVgo&id=6852&type=hls
 
 =====================================TV9===================================
 
