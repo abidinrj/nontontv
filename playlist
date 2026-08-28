@@ -140,12 +140,12 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=1080
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 1v
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=733&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJsaXZlXzczM185ODYzNTE5YWJkMzkiLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9va1VSNnhYWVZlZC9ZY2ljbkx0TC8vWjF3N0VSVUZPRHlONitIQVoreWU5NiIsInRpbWVzdGFtcCI6IjIwMjYtMDgtMjhUMDM6MTg6NTNaIiwiaGFzaCI6IjVUVGczbU1FVlVZa1o0Q01IZC9nZG83YzNvV0RFendZNFlyTkhNdE5DK1U9Iiwia2V5X3JvdGF0aW9uIjpmYWxzZSwidmlkaW9fY29udGVudF9pZCI6NzMzLCJ2aWRpb19jb250ZW50X3R5cGUiOiJMaXZlc3RyZWFtaW5nIiwiaXNfcHJldmlldyI6ZmFsc2V9
 https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=fVx1u3uvE2jaoQrKed4f&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4Nzk3MzUzM30.3w9k2UeYvl56ibKTvq8u1zvj1t4x4D8T4aYLzxKXXlU&id=733&type=dash
 
 #======================================================== TRANS7 ====================================================================
