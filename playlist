@@ -298,8 +298,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png" group-title="INDONESIA TV", 13. MDTV (Trv)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/875/file/primary/av1-360p/av1-360p-1787413308-idx.mp4?hdntl=exp=1787902784~acl=/stream/875/res=1080p/file/stream.mpd!/stream/875/file/*/aac/*!/stream/875/file/*/*-1080p/*!/stream/875/file/*/*-720p/*!/stream/875/file/*/*-480p/*!/stream/875/file/*/*-360p/*~id=146289015~data=hdntl~hmac=fc32835044624bf86d2b718399ed854fe411ffa1b250a74a5f77351f78b524d9
+https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=_Pmc8wpcw3sSKuxusRxG&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4Nzk3NDkxNn0.uSbXxqGo58Y2UISvLQxje0wevGIARQBpEZ1hYoeHIcI&id=875&type=dash
 
 #======================================================== BNTV ====================================================================
 
