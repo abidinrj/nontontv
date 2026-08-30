@@ -73,7 +73,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5409/res=1080p/file/drm/dash/stream.mpd?hdnts=exp=1788123829~acl=/stream/5409/res=1080p/file/drm/dash/stream.mpd!/stream/5409/file/drm/dash/*/aac/*!/stream/5409/file/drm/dash/*/*-1080p/*!/stream/5409/file/drm/dash/*/*-720p/*!/stream/5409/file/drm/dash/*/*-480p/*!/stream/5409/file/drm/dash/*/*-360p/*~id=226928584~hmac=7caa2f49353b559a385f0c0dbdab6ce2789be5d9bfb198e21ad91ba80774ef3d
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5409/res=1080p/file/drm/dash/stream.mpd?hdnts=exp=1788123829~acl=/stream/5409/res=1080p/file/drm/dash/stream.mpd!/stream/5409/file/drm/dash/*/aac/*!/stream/5409/file/drm/dash/*/*-1080p/*!/stream/5409/file/drm/dash/*/*-720p/*!/stream/5409/file/drm/dash/*/*-480p/*!/stream/5409/file/drm/dash/*/*-360p/*~id=226928584~hmac=7caa2f49353b559a385f0c0dbdab6ce2789be5d9bfb198e21ad91ba80774ef3d
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #======================================================== SINDONEWS ====================================================================
