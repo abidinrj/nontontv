@@ -20,7 +20,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://iptvtree.net:8080/live/F18115/068f009e/157591
+http://iptvtree.net:8080/F18115/068f009e/157591
 
 #======================================================== MNCTV ====================================================================
 
@@ -28,7 +28,7 @@ http://iptvtree.net:8080/live/F18115/068f009e/157591
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://iptvtree.net:8080/live/F18115/068f009e/165054
+http://iptvtree.net:8080/F18115/068f009e/165054
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -42,7 +42,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://iptvtree.net:8080/live/F18115/068f009e/157578
+http://iptvtree.net:8080/F18115/068f009e/157578
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -56,7 +56,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://013tv.com:8080/live/F33848/cbd9779b/157579
+http://013tv.com:8080/F33848/cbd9779b/157579
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -124,7 +124,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=1080
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
 http://013tv.com:8080/F33848/cbd9779b/162503
-http://iptvtree.net:8080/live/F18115/068f009e/162503
+http://iptvtree.net:8080/F18115/068f009e/162503
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
@@ -137,7 +137,7 @@ http://iptvtree.net:8080/live/F18115/068f009e/162503
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
 http://013tv.com:8080/F33848/cbd9779b/162502
-http://iptvtree.net:8080/live/F18115/068f009e/162502
+http://iptvtree.net:8080/F18115/068f009e/162502
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
