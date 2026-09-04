@@ -112,18 +112,21 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=1080
 #======================================================== TRANSTV ====================================================================
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://013tv.com:8080/live/F18115/068f009e/162503
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 https://20.detik.com/watch/livestreaming-transtv?smartautoplay=true
 
 #======================================================== TRANS7 ====================================================================
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 https://20.detik.com/watch/livestreaming-trans7?smartautoplay=true
 http://013tv.com:8080/live/F18115/068f009e/162502
 
