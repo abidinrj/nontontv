@@ -1104,30 +1104,27 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/in
 //========================================================================
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="📂 SPORT",Sportstars
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=73&key=dr4g0n25
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="📂 SPORT",Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=113&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=74&key=dr4g0n25
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="9999" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="📂 SPORT",Sportstars 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=75&key=dr4g0n25
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png" group-title="📂 SPORT",Sportstars 4
@@ -1140,33 +1137,28 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="📂 SPORT",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=115&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=76&key=dr4g0n25
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://www.visionplus.id/images/repository/856/522856-LOGO-m.png" group-title="📂 SPORT",SPOTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=119&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=77&key=dr4g0n25
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-#https://ayo.maling.pl/V/vision/id=119.cok.mpd
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://www.visionplus.id/images/repository/366/525366-LOGO-m.png" group-title="📂 SPORT",SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=120&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=dr4g0n25
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#https://ayo.maling.pl/V/vision/id=120.cok.mpd
 
 #EXTINF:-1 tvg-id="121" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="📂 SPORT",Fight Sports
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
