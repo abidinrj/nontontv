@@ -82,27 +82,32 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #======================================================== SCTV ====================================================================
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SCTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 1
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=KKFQR348kB6DbUsnqncS&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkzMTgwM30.m2gL1kKTEUojgg-TKGJ7EE4DsRzTy7ptVCpQ60bpQ6c&id=204&type=dash
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #======================================================== INDOSIAR ====================================================================
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR 1
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=vHJvMUASXycSgCFimWfm&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkzMjQyN30.jv8FKowzUm8qQYCKCefSjrJAyB2joxFdV3sqNEBU0HU&id=205&type=dash
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR 2
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,12 +128,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #======================================================== MENTARI ====================================================================
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 1
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=1080p/file/master.m3u8?hdnts=exp=1787847488~acl=/stream/8237/res=1080p/file/master.m3u8!/stream/8237/file/*/aac/*!/stream/8237/file/*/*-1080p/*!/stream/8237/file/*/*-720p/*!/stream/8237/file/*/*-480p/*!/stream/8237/file/*/*-360p/*~id=146289015~hmac=1a7c9c5bd12573815c41190b73a4e0f171ea81e1039fa232c180ba78225f831f
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 2
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
