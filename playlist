@@ -249,7 +249,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 #======================================================== CNN ====================================================================
 
 #EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnn.png" group-title="INDONESIA TV", 16. CNN INDONESIA (FEED)
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1154745417_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg2MzQ5MTQwMTYmd293emF0b2tlbmhhc2g9Q1QzRm9uZm9waUlsT0FqakZaWi1pcGxnbUJGNDNjUGtQMXY4SG9ZQzRsbz0=.m3u8
+https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q05OaS1teQ/manifest.mpd?signature=MWVkYjI2YjM2Zjc4YmU0ZmE5Nzg5NDJkOTkxZWZjYTc=&time=15247062224
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV", 17. CNBC INDONESIA (FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
