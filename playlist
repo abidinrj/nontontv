@@ -198,7 +198,8 @@ http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=RTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
+https://visionplus.fazznet.my.id/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -327,9 +328,14 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png" group-title="INDONESIA TV", 13. MDTV 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=abidin4593%40gmail.com&x=LGux7XgMLUWj1Kfb7sGz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkyNTE0NH0.PPoheEypnbP3yVRjipIjCLjukB6CrK2FGHPJxwugVgo&id=875&type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=MDTV
+https://visionplus.fazznet.my.id/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #======================================================== BNTV ====================================================================
 
@@ -469,9 +475,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lit
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
 
 #EXTINF:-1 tvg-id="AlQuran.Kareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://mimipipi22.github.io/logo/religion/alqurankareem.jpg" group-title="RELIGI",AL QURAN KAREEM (V)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=abidin4593%40gmail.com&x=LGux7XgMLUWj1Kfb7sGz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkyNTE0NH0.PPoheEypnbP3yVRjipIjCLjukB6CrK2FGHPJxwugVgo&id=6852&type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Al%20Quran%20Al%20Kareem
+#EXTINF:-1 tvg-id="00000000000000000153" tvg-name="Al Quran Al Kareem" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" group-title="VISION+", Al Quran Al Kareem (V+)
+https://visionplus.fazznet.my.id/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
 =====================================TV9===================================
 
