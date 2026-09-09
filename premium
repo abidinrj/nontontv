@@ -260,7 +260,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 #======================================================== CNN ====================================================================
 
 #EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnn.png" group-title="INDONESIA TV", 16. CNN INDONESIA (FEED)
-https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q05OaS1teQ/manifest.mpd?signature=MWVkYjI2YjM2Zjc4YmU0ZmE5Nzg5NDJkOTkxZWZjYTc=&time=15247062224
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302230
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV", 17. CNBC INDONESIA (FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
