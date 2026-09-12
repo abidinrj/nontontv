@@ -86,22 +86,15 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #======================================================== SCTV ====================================================================
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 1
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 1
+https://ogietv.biz.id:443/Livetv/234/1322.m3u8
 
 #======================================================== INDOSIAR ====================================================================
 
