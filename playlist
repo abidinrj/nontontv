@@ -134,10 +134,10 @@ https://ogietv.biz.id:443/Livetv/234/1313.m3u8
 
 #======================================================== ANTV ====================================================================
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 2
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 1
 https://ogietv.biz.id:443/Livetv/234/27383.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
