@@ -133,7 +133,10 @@ http://filex.me:8080/live/3114654477/5787654467/302311.ts
 https://ogietv.biz.id:443/Livetv/234/27383.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 2
-http://filex.me:8080/live/3114654477/5787654467/302206.ts
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #======================================================== RTV ====================================================================
 
