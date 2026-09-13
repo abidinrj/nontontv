@@ -370,14 +370,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 =====================================TVMU===================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA25GaB.jpeg" tvg-id="itzplay.id" group-title="RELIGI",TVMU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=TV%20MU
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+http://013tv.com:8080/F33848/cbd9779b/196459
 
 ===================================MADINAH=====================================
 
@@ -408,7 +401,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV9.NU.id" tvg-name="TV9 NU.id" tvg-logo="https://mimipipi22.github.io/logo/religion/tv9.jpg" group-title="RELIGI",TV9 (STREAM)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
+http://013tv.com:8080/F33848/cbd9779b/162509
 
 =======================================
 <======= Kids Channels ========>
@@ -667,17 +660,27 @@ http://stream.mcquack.net/380/index.m3u8
                              >>> SPORTS
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL 01" tvg-logo="https://raw.githubusercontent.com/tvguideone/logo/main/bingsport/premierleague.png" group-title="SPORT",EPL 01
-https://ogietv.biz.id:443/Livetv/234/84942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Soccer Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png" group-title="SPORTS",Soccer Channel
+http://013tv.com:8080/F33848/cbd9779b/165066
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL 02" tvg-logo="https://raw.githubusercontent.com/tvguideone/logo/main/bingsport/premierleague.png" group-title="SPORT",EPL 02
-https://ogietv.biz.id:443/Livetv/234/84943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: SportStars 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/55fe27237a255968a16a4b1073bdfb5f.png" group-title="SPORTS",SportStars 2
+http://013tv.com:8080/F33848/cbd9779b/304861
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL 03" tvg-logo="https://raw.githubusercontent.com/tvguideone/logo/main/bingsport/premierleague.png" group-title="SPORT",EPL 03
-https://ogietv.biz.id:443/Livetv/234/84944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: SportStars 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/9ddaf7aa40fe695bd7b229d8b3232802.png" group-title="SPORTS",SportStars 4
+http://013tv.com:8080/F33848/cbd9779b/304862
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL 04" tvg-logo="https://raw.githubusercontent.com/tvguideone/logo/main/bingsport/premierleague.png" group-title="SPORT",EPL 04
-https://ogietv.biz.id:443/Livetv/234/84945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORTS",SpoTV
+http://013tv.com:8080/F33848/cbd9779b/165105
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SPORTS",SpoTV 2
+http://013tv.com:8080/F33848/cbd9779b/298506
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="SPORTS",beIN Sports 1
+http://013tv.com:8080/F33848/cbd9779b/295289
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="SPORTS",beIN Sports 3
+http://013tv.com:8080/F33848/cbd9779b/306458
+
 
 
 
