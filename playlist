@@ -362,7 +362,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
 =====================================TVMU===================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yA25GaB.jpeg" tvg-id="itzplay.id" group-title="RELIGI",TVMU
-http://013tv.com:8080/F33848/cbd9779b/196459
+https://e.siar.us/live/tvmu.m3u8
 
 ===================================MADINAH=====================================
 
@@ -386,7 +386,7 @@ https://ogietv.biz.id:443/Livetv/234/1479.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV9.NU.id" tvg-name="TV9 NU.id" tvg-logo="https://mimipipi22.github.io/logo/religion/tv9.jpg" group-title="RELIGI",TV9 (STREAM)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-http://013tv.com:8080/F33848/cbd9779b/162509
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w527816063.m3u8
 
 =======================================
 <======= Kids Channels ========>
