@@ -655,10 +655,10 @@ http://stream.mcquack.net/380/index.m3u8
 //========================================================================
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SPORTS",BEIN Sports 1 HD
-http://filex.me:8080/live/3114654477/5787654467/302214.ts
+http://filex.me:8080/live/3114654477/5787654467/501229.ts
 
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS",BEIN Sports 3 HD
-http://filex.me:8080/live/3114654477/5787654467/302215.ts
+http://filex.me:8080/live/3114654477/5787654467/501230.ts
 
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="ID: SpoTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORTS",SpoTV HD
 http://filex.me:8080/live/3114654477/5787654467/302305.ts
