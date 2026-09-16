@@ -66,14 +66,14 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 http://filex.me:8080/live/3114654477/5787654467/302301.ts
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://vidsemar.pages.dev/terraluna2/204.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #======================================================== INDOSIAR ====================================================================
 
@@ -86,14 +86,14 @@ https://vidsemar.pages.dev/terraluna2/204.mpd
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR 2
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://vidsemar.pages.dev/terraluna2/205.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204&type=drm
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #======================================================== MOJI ====================================================================
 
@@ -108,7 +108,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #======================================================== MENTARI ====================================================================
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 2
-https://ogietv.biz.id:443/Livetv/234/31315.m3u8
+#https://ogietv.biz.id:443/Livetv/234/31315.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -120,20 +120,20 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 #======================================================== TRANSTV ====================================================================
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 1
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 1
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
 http://filex.me:8080/live/3114654477/5787654467/302312.ts
 
 #======================================================== TRANS7 ====================================================================
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 1
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
 http://filex.me:8080/live/3114654477/5787654467/302311.ts
 
 #======================================================== ANTV ====================================================================
@@ -194,10 +194,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV", 17. CNBC INDONESIA (FEED)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w991970130_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk1NDY0Nzc1NDImd293emF0b2tlbmhhc2g9TExIV1hVaEoxU05pc2tqQ0ZzdWtvYUlwX014enRlQjVNY3loMjBUNTJrST0=.m3u8
 
 #======================================================== VTV ====================================================================
 
@@ -227,7 +227,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png" group-title="INDONESIA TV", 01. TVRI NASIONAL 2
-https://ogietv.biz.id:443/Livetv/234/1335.m3u8
+#https://ogietv.biz.id:443/Livetv/234/1335.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
@@ -410,36 +410,59 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w527816063.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="Cartoon Network" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvPNciX-z6fcnPM8R74z5GczPB3fQqhnqrfJYKhQHjnamJM8mTFdFGrjI9Pwl70Dj_gV8pVmr1tRLz2F6pmh53pRBTI61lwBfM7nVkD_drR653EzRIAssPD3yPjJSudFLPg.png" group-title="KIDS",Cartoon Network
-https://ogietv.biz.id:443/Livetv/234/1454.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://object-streamo.emonaja.com/img/kidstv.png" group-title="Kids Channel",Kids TV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="Dreamworks ID HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvGwGkxhhOov0w5t8qcu-f62CmNUbSd1k34jHUqtzgCMiuz-LvIBZ0qe3NxhH5k8sXNunr8KaIC6BnnoBtdj3i8eud3jUzgs9y9juN1jcL3NWf9f225RqG3gJjF-x7-A3KQ.png" group-title="KIDS",Dreamworks ID HD
-https://ogietv.biz.id:443/Livetv/234/1457.m3u8
+#EXTINF:-1 group-title="Kids Channel" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png",Mentari TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="Nick Junior ID" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvO9_jZCw8CoP6gBmAjcZzwrMBS27_-F7eoezuNGKswsmwbpYZYRQiWGun33lgZ931YuFqeWoj73zLd8KtuKlDkAOK9i2wPpxxA-kPfSNYPAI2qA5dQxyfZjt2aFSYOFfjg.png" group-title="KIDS",Nick Junior ID
-https://ogietv.biz.id:443/Livetv/234/601.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="Kids Channel" tvg-id="Nickelodeon.id", Nickelodeon (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="Nickleodon ID" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JLKSRkQwZypWkek5xawpiGj0j7N-TC_Pa3G181Uszm_r.png" group-title="KIDS",Nickleodon ID
-https://ogietv.biz.id:443/Livetv/234/15498.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids Channel", Nickelodeon Junior (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
-#EXTINF:-1 tvg-id="1.astro" tvg-name="Boomerang ID FHD" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JCuDcysCyxeN9BXo5vTczGK4fQ2sVQdY1vT7Y5xZ_LsI.png" group-title="KIDS",Boomerang ID FHD
-https://ogietv.biz.id:443/Livetv/234/1458.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids Channel",Dreamworks HD (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Animax FHD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvHf7NvmfEr9kbQrmcq6n8pPlpPGAq5sfwtCMpFQ6IK4K-ZdWJRgMRl8FrkAxrzTDAYupJzxY7ZyvquguzvlNro7A5K_NLHW-1uHJaSu-XGa4ELUETOVIvu7w9yn36-MtQQ.png" group-title="KIDS",Animax FHD
-https://ogietv.biz.id:443/Livetv/234/1464.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
+#EXTINF:-1 tvg-id="Moonbug" group-title="Kids Channel" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="Aniplus" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvHf7NvmfEr9kbQrmcq6n8pPlpPGAq5sfwtCMpFQ6IK4KgRJms7zGfZu-vOp9DYPHKXk2oJJhHp18qpd4_ZHX6qQ2b2-tLMrZ0Avwv2P0P1UvHV_ZQ6rn3tyJ8de8HE78Cg.png" group-title="KIDS",Aniplus
-https://ogietv.biz.id:443/Livetv/234/1465.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTINF:-1 group-title="Kids Channel" tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png",Animax (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="MaxKids" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvERRtYoS6-Wun6PYvvkaMKaUl6k-Unks86gaYJ2GPeKifRu9NKt2hHGo26M3U_87l8g7e4MO6A8YTi0vxIKi6k_elR6QiMVozbcZNufgOiXrmtQQK6S6EdJwm-DZGwE6Mg.png" group-title="KIDS",MaxKids
-https://ogietv.biz.id:443/Livetv/234/1469.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mentari Tv" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvEcGoP-SsGIb1auU4W9VTvfpnPrVAsvog4u3NZEZtBPQQjTmeU8m9gySSjGCkKKpYrsNOvZFTLCy14zl9veAhx1aMwYyljPi83bAAAnwD-CI3DGUOCLKgNkFJf68Bt74gg.png" group-title="KIDS",Mentari Tv
-https://ogietv.biz.id:443/Livetv/234/31315.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JMSjzZnqsoXrp2TjDd_WY3rCy3bM7_T1je_0jEXBRcdE.png" group-title="KIDS",VTV
-https://ogietv.biz.id:443/Livetv/234/31901.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.vtv" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" group-title="Kids Channel",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
 
 =======================================
 
@@ -450,21 +473,38 @@ https://ogietv.biz.id:443/Livetv/234/31901.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="411.astro" tvg-name="HBO HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvGwbSS-HAO-xicYK_sU6BsRO5DmYuv3Rbu7fsp52m3El6TXeIRDoSxM9ayVU1Ajeh0BRnkv8ivcl6r59cq9N2nQ.png" group-title="📂 HIBURAN",HBO HD
-https://ogietv.biz.id:443/Livetv/234/1364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop HD
+http://filex.me:8080/live/3114654477/5787654467/302240.ts
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="HBO Signature HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvGwbSS-HAO-xicYK_sU6BsRO5DmYuv3Rbu7fsp52m3ElTq2Svl7wkBUqtzFCXjbtcRm3AEsNxCNr6tbbu50vF_ONT5BAqyZ4PVnB-0Dzxd3VTvJzCtNP0RgYIH7xieNKWw.png" group-title="📂 HIBURAN",HBO Signature HD
-https://ogietv.biz.id:443/Livetv/234/1366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 02 HD
+http://filex.me:8080/live/3114654477/5787654467/302241.ts
 
-#EXTINF:-1 tvg-id="415.astro" tvg-name="HBO Hits HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvGwbSS-HAO-xicYK_sU6BsRO5DmYuv3Rbu7fsp52m3ElbIhX7Xee2-tcsILb7_JmI2tio-Op-OfVePt08CDpItoXi7reDGTEpBfTFK1GGo5lHR6an8m0aSZbwmdi9YCQZg.png" group-title="📂 HIBURAN",HBO Hits HD
-https://ogietv.biz.id:443/Livetv/234/1368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 03 HD
+http://filex.me:8080/live/3114654477/5787654467/302242.ts
 
-#EXTINF:-1 tvg-id="414.astro" tvg-name="HBO Family HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvGwbSS-HAO-xicYK_sU6BsRO5DmYuv3Rbu7fsp52m3ElJMRXEVFUBruJa7hOabcaLVA0u_0O5rpMstXQkE70P7HpQRApUJoBPKcs4y1VUaO4L6_-vPyJLPBJoJ7N9RA2oA.png" group-title="📂 HIBURAN",HBO Family HD
-https://ogietv.biz.id:443/Livetv/234/1370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 04 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 04 HD
+http://filex.me:8080/live/3114654477/5787654467/302243.ts
 
-#EXTINF:-1 tvg-id="412.astro" tvg-name="Cinemax by HBO HD" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvCwYMNr8HDJoefw3K5vYPlIR3OfEUt7vIXKFd6lMLNmRtJ-ZuX56Q8ENhufQ0kgnapjvcc-pi2YP2Ryztf3MVQkZyr75pwP_7X1D8SHzTvNHPJq1keTsuxlSxT6cSNALfg.png" group-title="📂 HIBURAN",Cinemax by HBO HD
-https://ogietv.biz.id:443/Livetv/234/1372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",FLIK HD
+http://filex.me:8080/live/3114654477/5787654467/302244.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="📂 HIBURAN",Galaxy Premium HD
+http://filex.me:8080/live/3114654477/5787654467/302245.ts
+
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ID: GEM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="📂 HIBURAN",GEM HD
+http://filex.me:8080/live/3114654477/5787654467/302246.ts
+
+#EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="📂 HIBURAN",HBO HD
+http://filex.me:8080/live/3114654477/5787654467/302248.ts
+
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="📂 HIBURAN",HBO Family HD
+http://filex.me:8080/live/3114654477/5787654467/302249.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="📂 HIBURAN",HBO HITS HD
+http://filex.me:8080/live/3114654477/5787654467/302250.ts
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="📂 HIBURAN",HBO Signature HD
+http://filex.me:8080/live/3114654477/5787654467/302251.ts
 
 #EXTINF:-1 tvg-id="4everCinema.ua@SD" tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="📂 HIBURAN",4ever Cinema (1080p)
 http://stream.mcquack.net/258/index.m3u8
