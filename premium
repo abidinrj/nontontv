@@ -11,8 +11,8 @@
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI 2
 https://rcti-linier.rctiplus.id/hdntl=exp=1789715925~acl=%2F*~data=hdntl~hmac=e8aae9ac9e4702f194105722c1171e1d25722d8fd6228e722fe7858a3af13f3b/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
@@ -25,8 +25,8 @@ https://mnctv-linier.rctiplus.id/hdntl=exp=1789715901~acl=%2F*~data=hdntl~hmac=5
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #======================================================== GTV ====================================================================
 
@@ -36,8 +36,8 @@ https://gtv-linier.rctiplus.id/hdntl=exp=1789715860~acl=%2F*~data=hdntl~hmac=7d2
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #======================================================== INEWS ====================================================================
 
@@ -47,8 +47,8 @@ https://inews-linier.rctiplus.id/hdntl=exp=1789715800~acl=%2F*~data=hdntl~hmac=9
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #======================================================== SINDONEWS ====================================================================
 
