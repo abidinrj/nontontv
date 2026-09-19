@@ -15,12 +15,12 @@
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV", 06. RCTI 2
-http://filex.me:8080/live/3114654477/5787654467/302297.ts
+#http://filex.me:8080/live/3114654477/5787654467/302297.ts
 
 #======================================================== MNCTV ====================================================================
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 2
-http://filex.me:8080/live/3114654477/5787654467/302278.ts
+#http://filex.me:8080/live/3114654477/5787654467/302278.ts
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -31,7 +31,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #======================================================== GTV ====================================================================
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 2
-http://filex.me:8080/live/3114654477/5787654467/302247.ts
+#http://filex.me:8080/live/3114654477/5787654467/302247.ts
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -42,7 +42,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #======================================================== INEWS ====================================================================
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 2
-http://filex.me:8080/live/3114654477/5787654467/501254.ts
+#http://filex.me:8080/live/3114654477/5787654467/501254.ts
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -61,7 +61,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #======================================================== SCTV ====================================================================
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 2
-http://filex.me:8080/live/3114654477/5787654467/302301.ts
+#http://filex.me:8080/live/3114654477/5787654467/302301.ts
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV", 07. SCTV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -87,7 +87,7 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #======================================================== MOJI ====================================================================
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV 1
-http://filex.me:8080/live/3114654477/5787654467/302279.ts
+#http://filex.me:8080/live/3114654477/5787654467/302279.ts
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV DNS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -116,7 +116,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
-http://filex.me:8080/live/3114654477/5787654467/302312.ts
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
 
 #======================================================== TRANS7 ====================================================================
 
@@ -125,23 +125,23 @@ http://filex.me:8080/live/3114654477/5787654467/302312.ts
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
-http://filex.me:8080/live/3114654477/5787654467/302311.ts
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
 
 #======================================================== ANTV ====================================================================
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 2
-#http://filex.me:8080/live/3114654477/5787654467/302206.ts
+http://filex.me:8080/live/3114654477/5787654467/302206.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #======================================================== RTV ====================================================================
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV", 12. RTV 2
-http://filex.me:8080/live/3114654477/5787654467/501272.ts
+#http://filex.me:8080/live/3114654477/5787654467/501272.ts
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -155,7 +155,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png" group-title="INDONESIA TV", 09. TVONE 2
-http://filex.me:8080/live/3114654477/5787654467/302314.ts
+#http://filex.me:8080/live/3114654477/5787654467/302314.ts
 
 #======================================================== KOMPASTV ====================================================================
 
@@ -164,7 +164,7 @@ http://filex.me:8080/live/3114654477/5787654467/302314.ts
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png" group-title="INDONESIA TV", 14. KOMPAS TV 2
-http://filex.me:8080/live/3114654477/5787654467/302271.ts
+#http://filex.me:8080/live/3114654477/5787654467/302271.ts
 
 #======================================================== METROTV ====================================================================
 
@@ -187,10 +187,8 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #======================================================== CNBC ====================================================================
 
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV", 17. CNBC INDONESIA (FEED)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w694817306_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NTQ1Nzc4MDgmd293emF0b2tlbmhhc2g9UFk2MHBOV0o5RFJoeUk0cDFsdHlPRzhZMmhnYmJnanQ1UmRsLVhiSFNWQT0=.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789702265200&wowzatokenhash=9f3SPkpykhy1CwWI86fqvUTdIOscyPIvwMV5kuUza4c%3D
+
 #======================================================== VTV ====================================================================
 
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" tvg-id="VTV.id" group-title="INDONESIA TV", 19. VTV
