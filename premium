@@ -131,7 +131,7 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
 #======================================================== ANTV ====================================================================
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 2
-http://filex.me:8080/live/3114654477/5787654467/302206.ts
+#http://filex.me:8080/live/3114654477/5787654467/302206.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
