@@ -469,38 +469,21 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 
 =======================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop HD
-http://filex.me:8080/live/3114654477/5787654467/302240.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 02 HD
-http://filex.me:8080/live/3114654477/5787654467/302241.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 03 HD
-http://filex.me:8080/live/3114654477/5787654467/302242.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 04 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",ETV Bioskop 04 HD
-http://filex.me:8080/live/3114654477/5787654467/302243.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="📂 HIBURAN",FLIK HD
-http://filex.me:8080/live/3114654477/5787654467/302244.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="📂 HIBURAN",Galaxy Premium HD
-http://filex.me:8080/live/3114654477/5787654467/302245.ts
-
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ID: GEM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="📂 HIBURAN",GEM HD
-http://filex.me:8080/live/3114654477/5787654467/302246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXxKqC2D6nYQGw8o5IpyMpH.png" group-title="📂 HIBURAN",Cinemax
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 #EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="📂 HIBURAN",HBO HD
-http://filex.me:8080/live/3114654477/5787654467/302248.ts
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="📂 HIBURAN",HBO Family HD
-http://filex.me:8080/live/3114654477/5787654467/302249.ts
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="📂 HIBURAN",HBO HITS HD
-http://filex.me:8080/live/3114654477/5787654467/302250.ts
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
 
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="📂 HIBURAN",HBO Signature HD
-http://filex.me:8080/live/3114654477/5787654467/302251.ts
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 
 #EXTINF:-1 tvg-id="4everCinema.ua@SD" tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="📂 HIBURAN",4ever Cinema (1080p)
 http://stream.mcquack.net/258/index.m3u8
