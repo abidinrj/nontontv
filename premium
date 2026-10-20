@@ -25,7 +25,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #======================================================== MNCTV ====================================================================
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/22.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV", 05. MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -37,7 +41,11 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=mnctv
 #======================================================== GTV ====================================================================
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/09.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -49,7 +57,11 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 #======================================================== INEWS ====================================================================
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV", 15. INEWS 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -61,9 +73,10 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inews
 #======================================================== SINDONEWS ====================================================================
 
 #EXTINF:-1 tvg-id="Sindo.News.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (MAX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #======================================================== SCTV ====================================================================
@@ -108,7 +121,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #======================================================== MOJI ====================================================================
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV 1
-#http://filex.me:8080/live/3114654477/5787654467/302279.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=19
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV", 26. MOJI TV DNS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -123,7 +140,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA TV" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png", 20. MENTARI TV 1
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/20.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #======================================================== TRANSTV ====================================================================
 
@@ -132,7 +153,11 @@ http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #======================================================== TRANS7 ====================================================================
 
@@ -141,7 +166,11 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #======================================================== ANTV ====================================================================
 
@@ -161,7 +190,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 #======================================================== RTV ====================================================================
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV", 12. RTV 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/29.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=11
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -175,7 +208,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png" group-title="INDONESIA TV", 09. TVONE 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/36.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #======================================================== KOMPASTV ====================================================================
 
@@ -184,7 +221,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/Kompas.png" group-title="INDONESIA TV", 14. KOMPAS TV 2
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/16.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=13
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #======================================================== METROTV ====================================================================
 
@@ -216,14 +257,18 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 #======================================================== VTV ====================================================================
 
 #EXTINF:-1 tvg-name="VTV " tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" tvg-id="VTV.id" group-title="INDONESIA TV", 19. VTV
-#https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/40.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=
 
 #======================================================== BTV ====================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV", 30. BTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=015
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 #======================================================== BTV ====================================================================
@@ -366,9 +411,10 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #======================================================== HANACARAKA TV ====================================================================
 
 #EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/hanacaraka.jpg" group-title="INDONESIA TV",HANACARAKA TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=089
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #======================================================== JOWO TV ====================================================================
@@ -406,9 +452,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lit
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
 
 #EXTINF:-1 tvg-id="153" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png" group-title="RELIGI",Alquran AlKarem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=153
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=153
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
 =====================================TV9===================================
@@ -429,45 +476,52 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w527816063.m3u8
 =======================================
 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://object-streamo.emonaja.com/img/kidstv.png" group-title="Kids Channel",Kids TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=056
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=56
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png",Mentari TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=020
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="Kids Channel" tvg-id="Nickelodeon.id", Nickelodeon (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=064
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids Channel", Nickelodeon Junior (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=060
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids Channel",Dreamworks HD (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=067
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Kids Channel",Moonbug (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=057
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=57
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
 #EXTINF:-1 group-title="Kids Channel" tvg-id="Animax.id" tvg-logo="https://object-streamo.emonaja.com/img/animax.png",Animax (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=065
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -475,9 +529,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Kids Channel",Zoomoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=063
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 =======================================
@@ -703,7 +758,11 @@ http://stream.mcquack.net/380/index.m3u8
                              >>> SPORTS
 //========================================================================
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_310.png" group-title="Sports",beIN Sports 2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/73.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Sports",BEIN Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -790,15 +849,18 @@ http://45.224.96.220:18000/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLukYBSLHmGfu6GoC68z95_NM9Rnte7bGHEhXfiaqleltngR-hpWh47uv&s=10" group-title="Sports",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLukYBSLHmGfu6GoC68z95_NM9Rnte7bGHEhXfiaqleltngR-hpWh47uv&s=10" group-title="Sports",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLukYBSLHmGfu6GoC68z95_NM9Rnte7bGHEhXfiaqleltngR-hpWh47uv&s=10" group-title="Sports",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLukYBSLHmGfu6GoC68z95_NM9Rnte7bGHEhXfiaqleltngR-hpWh47uv&s=10" group-title="Sports",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLukYBSLHmGfu6GoC68z95_NM9Rnte7bGHEhXfiaqleltngR-hpWh47uv&s=10" group-title="Sports",DAZN 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
 
 
