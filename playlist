@@ -84,11 +84,6 @@ https://proxy-v.rctiplus.id/live/web/sctv/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204&type=drm
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #======================================================== INDOSIAR ====================================================================
@@ -100,13 +95,12 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 https://proxy-v.rctiplus.id/live/web/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV", 03. INDOSIAR 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-#http://tvratu.my.id/vid/index.mpd?id=205&type=dash
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna3/205.mpd
 
 #======================================================== MOJI ====================================================================
 
@@ -162,9 +156,9 @@ https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV", 02. ANTV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 #======================================================== RTV ====================================================================
