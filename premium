@@ -37,9 +37,9 @@ https://rctiplus123.mikrofast.my.id/rctiplus/mnctv/redirect.m3u8
 #======================================================== GTV ====================================================================
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 2
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV", 08. GTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -332,8 +332,11 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 
-#======================================================== GARUDA TV ====================================================================
+#======================================================== MIC TV ====================================================================
 
+#EXTINF:-1 tvg-id="MusicInformationChannel.id@SD", group-title="INDONESIA TV", Music Information Channel (720p)
+#EXTVLCOPT:http-referrer=https://mic-indo.com/live
+https://mic.siar.us/mic/live/mic.m3u8
 
 #======================================================== BALI TV ====================================================================
 
