@@ -132,7 +132,7 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV", 04. TRANS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
 
 #======================================================== TRANS7 ====================================================================
 
@@ -144,7 +144,7 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV", 10. TRANS 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 
 #======================================================== ANTV ====================================================================
 
